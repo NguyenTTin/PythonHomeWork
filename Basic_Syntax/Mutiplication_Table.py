@@ -2,7 +2,7 @@ __auth__ = 'NguyenTTin'
 
 
 counter=0 # Create a variable to count the number of line
-print("\t\tMUTILPLICATION TABLE")
+print("\t\t   MUTILPLICATION TABLE")
 for i in range(1,10):
     if i==1:
         print(" {0:5d}".format(i),end='')
