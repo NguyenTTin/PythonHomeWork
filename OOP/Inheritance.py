@@ -1,34 +1,5 @@
 __auth__ = 'NguyenTTin'
 
-
-'''
-class Car():
-    def __init__(self, colour, ty):
-        self.ty=ty
-        self.colour = colour
-    @staticmethod
-    def speed():
-        maxspeed = 300
-        return maxspeed
-
-    def __str__(self):
-        return ("The colour is {} and maxspedd is {}".format(self.colour, self.maxspeed))
-
-class Motobike():
-    def __init__(self,colour, ty):
-        self.ty = ty
-        self.colour = colour
-
-
-class MixVehicle(Car,Motobike):
-    def __init__(self,colour,ty):
-        Car.__init__(self,colour,ty)
-        Motobike.__init__(self,colour,ty)
-
-m=MixVehicle('Red','Sport')
-print(m.speed())
-'''
-
 import random
 
 class People(object):
@@ -91,6 +62,6 @@ class Crossbred(Asianer,Westener):
 Cr1=Crossbred('Japanese', 'American')
 print(Cr1.GoodatArt())
 print(Cr1.GoodatMath())
-#print(Cr1.haircolour)
-#print(Cr1.eyeclour)
-#print(Cr1.eyecolor)
+print(Cr1.haircolour)
+print(Cr1.eyecolour)
+print(Cr1.skincolour)
