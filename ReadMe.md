@@ -1,6 +1,6 @@
-### THE DESCRIPTION OF PROJECT
+### THE PROJECT'S DESCRIPTION
 
-Authour: TinNT
+Authour: __NguyenTTin__
 
 
 Project includes 2 directories **Basic_Syntax** and **OOP**.
