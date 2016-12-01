@@ -29,4 +29,3 @@ class Aphibian (Car, Canoe):
 
 
 a1=Aphibian('Sport', 'Popie')
-print(a1.__str__())
