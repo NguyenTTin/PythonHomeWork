@@ -1,13 +1,15 @@
-### THE PROJECT'S DESCRIPTION
+#################################
+### THE PROJECT'S DESCRIPTION ###
+#################################
 
 Authour: __NguyenTTin__
 
 
-Project includes 2 directories **Basic_Syntax** and **OOP**.
-In the *Basic_Syntax* directory, I have created several modules which
-are proving for basic structures in python programming.
+Project includes serveral directories which represent for sectors like basic syntax,
+I/O Processing, OOP, Pygame as well as mathematical functions
 
-In the *OOP* directory, I have also added various modules, may be classes
-for Oriented Object Programming Illustration.
+The Reposistory just serves for Online Course on Techmaster Acedemic.
+To mo reference, please contact to Techmaster Director_Board!!!
+
 
 
